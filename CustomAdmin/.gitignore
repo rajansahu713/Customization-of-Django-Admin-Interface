@@ -1,0 +1,20 @@
+# Database
+db.sqlite3
+
+# Migration
+employee/migrations/0*
+
+# __pycache__
+employee/__pycache__
+Customer/__pycache__
+
+# environment
+.env
+
+*.pyc
+**/*.pyc
+**/*/*.pyc
+
+
+
+
