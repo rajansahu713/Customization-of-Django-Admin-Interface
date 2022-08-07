@@ -20,3 +20,10 @@ Table of Contents:
 * How to do a bulk update using Django admin Panel.
 * How to add a logo to Django admin.
 * How to add a custom view to the Admin Panel.
+
+
+Please check the medium article for more details.
+
+1. https://medium.com/@rajansahu713/customization-of-django-admin-interface-312b4a3c0f84
+
+2. https://medium.com/@rajansahu713/customization-of-django-admin-interface-part-2-51033a884dab
